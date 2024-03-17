@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.includePath": [
+        "#include(iostream)"
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
